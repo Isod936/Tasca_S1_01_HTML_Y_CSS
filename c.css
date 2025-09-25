@@ -189,7 +189,7 @@ h3 {
   }
 
   .nav-link {
-    margin: 0 25px;
+    margin: 0 20px;
     text-decoration: none;
     color: rgb(35, 9, 9);
   }
@@ -204,9 +204,8 @@ h3 {
   }
 
   .banner {
-    margin-top: 25vh;
-
-    background-color: rgba(120, 120, 120, 0);
+    margin-top: 30vh;
+    background-color: rgba(120, 120, 120, auto);
   }
 
   .arriba,
